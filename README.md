@@ -1,5 +1,10 @@
 # Angular RxJS Communication Demo
 
+![Angular](https://img.shields.io/badge/Angular-21-DD0031?logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?logo=reactivex&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://martin-frei.github.io/angular-rxjs-demo/)
+
 A practical demonstration of component-to-component communication in Angular using RxJS BehaviorSubjects.
 
 ## 🎯 About This Project
